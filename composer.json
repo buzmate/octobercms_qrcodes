@@ -1,5 +1,6 @@
 {
     "name": "dondo/qrcodes-plugin",
+    "type": "october-plugin",
     "authors": [
         {
             "name": "Dominik Vozar",
